@@ -14,11 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app-promise.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app-promise.js">
+      <file leaf-file-name="experiment.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/playground/experiment.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+            <state relative-caret-position="270">
+              <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="promise.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/playground/promise.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -27,18 +37,8 @@
       <file leaf-file-name="geocode.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/geocode/geocode.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="90" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="90" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="weather.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/weather/weather.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="72" lean-forward="false" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="72" />
+            <state relative-caret-position="378">
+              <caret line="21" column="7" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="21" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -64,6 +64,7 @@
         <option value="$PROJECT_DIR$/geocode/geocode.js" />
         <option value="$PROJECT_DIR$/playground/promise-2.js" />
         <option value="$PROJECT_DIR$/app-promise.js" />
+        <option value="$PROJECT_DIR$/playground/experiment.js" />
       </list>
     </option>
   </component>
@@ -79,6 +80,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="114" />
@@ -130,6 +134,16 @@
             <path>
               <item name="weather-app" type="b2602c69:ProjectViewProjectNode" />
               <item name="weather-app" type="462c0819:PsiDirectoryNode" />
+              <item name="geocode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weather-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weather-app" type="462c0819:PsiDirectoryNode" />
+              <item name="playground" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weather-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weather-app" type="462c0819:PsiDirectoryNode" />
               <item name="weather" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -172,17 +186,19 @@
       <updated>1507129107470</updated>
       <workItem from="1507129109488" duration="998000" />
       <workItem from="1507732749436" duration="13811000" />
-      <workItem from="1507831748190" duration="15426000" />
+      <workItem from="1507831748190" duration="16026000" />
+      <workItem from="1508512761261" duration="3845000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30235000" />
+    <option name="totallyTimeSpent" value="34680000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="114" y="210" width="1537" height="912" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12508143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12508143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -213,6 +229,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app-promise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geocode/geocode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="90" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather/weather.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="72" lean-forward="false" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -250,14 +290,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/playground/promise.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/playground/promise-2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -282,18 +314,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/geocode/geocode.js">
+    <entry file="file://$PROJECT_DIR$/app-promise.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="90" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="90" />
+        <state relative-caret-position="532">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app-promise.js">
+    <entry file="file://$PROJECT_DIR$/geocode/geocode.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        <state relative-caret-position="378">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="21" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playground/promise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playground/experiment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
           <folding />
         </state>
       </provider>
