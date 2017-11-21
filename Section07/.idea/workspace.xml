@@ -14,21 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node-todo-api/server/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" column="32" lean-forward="false" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+            <state relative-caret-position="250">
+              <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server.test.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="server.test.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/node-todo-api/server/tests/server.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <state relative-caret-position="664">
+              <caret line="60" column="50" lean-forward="false" selection-start-line="60" selection-start-column="50" selection-end-line="60" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -55,8 +55,8 @@
         <option value="$PROJECT_DIR$/node-todo-api/server/models/todo.js" />
         <option value="$PROJECT_DIR$/node-todo-api/server/models/user.js" />
         <option value="$PROJECT_DIR$/node-todo-api/package.json" />
-        <option value="$PROJECT_DIR$/node-todo-api/server/tests/server.test.js" />
         <option value="$PROJECT_DIR$/node-todo-api/server/server.js" />
+        <option value="$PROJECT_DIR$/node-todo-api/server/tests/server.test.js" />
       </list>
     </option>
   </component>
@@ -176,12 +176,12 @@
       <workItem from="1510787585377" duration="10372000" />
       <workItem from="1510864106461" duration="5844000" />
       <workItem from="1511213654035" duration="4419000" />
-      <workItem from="1511291782811" duration="811000" />
+      <workItem from="1511291782811" duration="3017000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24466000" />
+    <option name="totallyTimeSpent" value="26672000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1537" height="912" extended-state="6" />
@@ -405,18 +405,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node-todo-api/server/tests/server.test.js">
+    <entry file="file://$PROJECT_DIR$/node-todo-api/server/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="250">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node-todo-api/server/server.js">
+    <entry file="file://$PROJECT_DIR$/node-todo-api/server/tests/server.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="32" lean-forward="false" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        <state relative-caret-position="664">
+          <caret line="60" column="50" lean-forward="false" selection-start-line="60" selection-start-column="50" selection-end-line="60" selection-end-column="50" />
           <folding />
         </state>
       </provider>
